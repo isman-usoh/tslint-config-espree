@@ -1,7 +1,7 @@
 {
   "name": "tslint-config-espree",
   "description": "A TSLint config for Espree.io",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "tslint.js",
   "repository": "https://github.com/isman-usoh/tslint-config-espree.git",
   "author": "Isman Usoh <isman.usoh@gmail.com>",
@@ -30,5 +30,4 @@
     "tslint": "^5.11.0",
     "typescript": "^3.0.3"
   }
-  
 }
