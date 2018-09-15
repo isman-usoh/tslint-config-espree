@@ -1,11 +1,15 @@
-# TSLint Config Espree.IO
+# TSLint Config for Espree.IO
+
+[![NPM version](https://img.shields.io/npm/v/tslint-config-espree.svg?style=flat)](https://www.npmjs.com/package/tslint-config-espree)
+[![License](https://img.shields.io/npm/l/tslint-config-espree.svg?style=flat)](https://npmjs.org/package/tslint-config-espree)
+[![CircleCI](https://circleci.com/gh/isman-usoh/tslint-config-espree.svg?style=svg)](https://circleci.com/gh/isman-usoh/tslint-config-espree)
 
 > A [TSLint config](https://palantir.github.io/tslint/usage/configuration/) for Espree.IO
 
 ## Installation
 
-```sh
-npm install tslint-config-espress --save-dev
+```bash
+yarn add tslint-config-espress -D
 ```
 
 ## Usage
